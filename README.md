@@ -97,3 +97,6 @@ asyncio.run(main())
 ## 🙏 致謝
 
 本項目基於"記憶優先的AI架構：對當前大模型範式的反思"論文的核心理念實現。
+定位（「個人研究用白皮書，非產品、不含程式碼」）
+時間線（「初稿：2025/08/08，復刻更新：2025/12/06」
+#MemoryFirst #AIArchitecture #LongTermMemory
