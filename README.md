@@ -1,6 +1,9 @@
 # Memory-First AI Architecture
 記憶優先AI架構：對當前大模型範式的反思
 
+定位（「個人研究用白皮書，非產品、不含程式碼」）
+時間線（「初稿：2025/08/08，復刻更新：2025/12/06」
+
 > A systematic alternative to the "bigger is better" approach in AI development
 > 一個系統性的替代方案，挑戰"越大越好"的AI發展思路
 
@@ -97,6 +100,3 @@ asyncio.run(main())
 ## 🙏 致謝
 
 本項目基於"記憶優先的AI架構：對當前大模型範式的反思"論文的核心理念實現。
-定位（「個人研究用白皮書，非產品、不含程式碼」）
-時間線（「初稿：2025/08/08，復刻更新：2025/12/06」
-#MemoryFirst #AIArchitecture #LongTermMemory
