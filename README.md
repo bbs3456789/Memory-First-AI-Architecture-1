@@ -6,6 +6,8 @@
 
 > A systematic alternative to the "bigger is better" approach in AI development
 > 一個系統性的替代方案，挑戰"越大越好"的AI發展思路
+> Memory-First AI Architecture is a proposal for separating “long-term identity & memory” from LLMs.
+Instead of scaling parameters, it treats LLMs as pluggable reasoning cores sitting on top of a DDR/SSD/HDD style memory hierarchy…
 
 ## 🌟 核心理念
 
